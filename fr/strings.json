@@ -23,15 +23,15 @@
 	"aliasTaken": "An embed template with that alias already exists in this guild.",
 	"listDefault": " **(Default)**",
 	"listHeading": "Embed templates for ",
-	"templateRemoved": "Successfully removed the following template from the database: ",
-	"templateAdded": "Successfully added template to the database.",
-	"noBlank": "You must specify a header, footer or body text for online and offline embeds."
+	"templateRemoved": "templateRemoved": "Le modèle suivant a été supprimé avec succès de la base de données : ",
+	"templateAdded": "Succes de l'ajout du modèle sur la Base de données.",
+	"noBlank": "Veuillez mettre entête , footer ou corp du texte en ligne et hors-ligne embeds."
 },
 "lang": {
-	"changeSuccess": "Language changed successfully"
+	"changeSuccess": "La langue a bien été changez avec succès"
 },				  
 "invite": {
-	"embedBody": "Vous voulez ajouterMinecraft Server Status à votre serveur ? \n [Appuyez ici pour inviter le bot](https://discord.com/api/oauth2/authorize?client_id=652726107535310859&permissions=52304&scope=bot) \n \n Interessé par le programme bêta ? \n [Appuyez ici pour inviter la version bêta du bot](https://123computer.net/mcss/beta)"
+	"embedBody": "Vous voulez ajouter Minecraft Server Status à votre serveur ? \n [Appuyez ici pour inviter le bot](https://discord.com/api/oauth2/authorize?client_id=652726107535310859&permissions=52304&scope=bot) \n \n Interessé par le programme bêta ? \n [Appuyez ici pour inviter la version bêta du bot](https://123computer.net/mcss/beta)"
 },
 "help": {
 	"embedTitle": "Cliquez ici pour lire la documentation !",
@@ -77,8 +77,8 @@
 	"manageChannel": "Impossible de traiter votre requête car le bot n'a pas la permission **Gérer les salons**. Veuillez vérifier que le bot a cette permission ou contacter le personnel du serveur."
 },
 "admin": {
-	"respawningAll": "Respawning all shards.",
-	"respawnOne": "Respawning shard "
+	"respawningAll": "Respawn de tout shards.",
+	"respawnOne": "Respawn des shards "
 }
 
 }
